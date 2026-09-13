@@ -8,7 +8,6 @@
 
 #Pycache, logs e arquivos temporarios em geral
 
-.gitignore
 **/__pycache__/
 **/*.pyc
 .DS_Store
